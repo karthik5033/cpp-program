@@ -13,4 +13,10 @@ cout<<s1.age<<endl;
 cout<<s1.marks<<endl;
 
 
+// array structures
+student arr[3];
+for(int i=0;i<3;i++){
+    cout<<"enter the"<<i+1<<"student details";
+    cin>>arr[i].name>>arr[i].age>>arr[i].marks;
+}
 }
