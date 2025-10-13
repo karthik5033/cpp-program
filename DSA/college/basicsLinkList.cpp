@@ -17,5 +17,6 @@ void create(int A[],int n){
         t->next=NULL;
         last->next=t;
         last=t;
+        // last=last->next;
     }
 }
