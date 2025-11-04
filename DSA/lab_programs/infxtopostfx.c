@@ -68,7 +68,7 @@ void infToPostf(char inf[])
 int main()
 {
     char inf[SIZE];
-    printf("Enter infix expr: ");
+    printf("Enter infix expression: ");
     scanf("%s", inf);
     infToPostf(inf);
 }
