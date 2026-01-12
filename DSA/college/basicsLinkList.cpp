@@ -20,3 +20,7 @@ void create(int A[],int n){
         // last=last->next;
     }
 }
+
+int main(){
+    return 0;
+}
