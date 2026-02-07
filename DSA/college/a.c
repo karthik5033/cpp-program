@@ -70,3 +70,9 @@ int main()
         printf("Not Balanced\n");
     return 0;
 }
+
+// linked list implementation
+
+int main1(){
+    int i ;
+}  
